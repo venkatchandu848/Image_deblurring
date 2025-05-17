@@ -1,0 +1,8 @@
+# Libraries needed
+
+torch
+torchvision
+numpy
+tqdm
+Pillow
+matplotlib
